@@ -1,6 +1,6 @@
 /*
-Time complexity : O(n)
-Space complexity: O(n)
+Time complexity : O(n*m)
+Space complexity: O(1)
 
 Faced difficulties: I didn't know how cut the string when I find a different letter. 
 Solution: Just give  the current different letter a '\0' 
