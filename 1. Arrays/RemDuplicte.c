@@ -26,4 +26,3 @@ int removeDuplicates(int* nums, int numsSize) {
 
     // k is the number of unique elements
     return k;
-}
